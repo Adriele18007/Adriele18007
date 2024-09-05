@@ -6,4 +6,4 @@ Meu nome é Adriele, mas pode me chamar de Adri
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos
 
-![](https://media1.tenor.com/m/rCW8ceX1utkAAAAC/totoro.gif)
+![](https://media1.tenor.com/m/GsQ1Yimu3IMAAAAC/susuwatari-sugar.gif)
